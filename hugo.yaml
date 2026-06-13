@@ -24,7 +24,7 @@ params:
   author: "Osvaldo de Sousa"
   defaultTheme: dark
   disableThemeToggle: false
-
+  comments: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
