@@ -72,6 +72,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
 
 outputs:
   home:
