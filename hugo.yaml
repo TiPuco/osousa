@@ -19,7 +19,7 @@ markup:
 params:
   env: production
   title: "Osvaldo de Sousa"
-  description: "Cybersecurity analyst based in Maputo. Writing about infosec, networking, and things I find interesting."
+  description: "Cybersecurity analyst based in Songo. Writing about infosec, networking, hi-fi and all things I find interesting."
   keywords: [cybersecurity, infosec, networking, blog, mozambique]
   author: "Osvaldo de Sousa"
   defaultTheme: dark
@@ -40,7 +40,7 @@ params:
   profileMode:
     enabled: true
     title: "Osvaldo de Sousa"
-    subtitle: "Cybersecurity Analyst · SOC · Incident Response · Critical Infrastructure\nBased in Mozambique 🇲🇿"
+    subtitle: "Cybersecurity Analyst · SOC · Incident Response · Critical Infrastructure<br>Based in Mozambique 🇲🇿"
     imageUrl: "img/profile.jpg"
     imageWidth: 240
     imageHeight: 240

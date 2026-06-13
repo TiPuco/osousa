@@ -99,3 +99,8 @@
 [data-theme="light"] {
     --accent: #B5730A;
 }
+
+/* Theme toggle hover */
+#theme-toggle:hover {
+    color: var(--accent) !important;
+}
