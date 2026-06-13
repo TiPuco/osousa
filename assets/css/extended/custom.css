@@ -24,3 +24,78 @@
 .post-content table td:first-child {
     white-space: nowrap;
 }
+
+/* Accent colour — amber/orange */
+:root {
+    --accent: #E8A020;
+}
+
+/* Links */
+.post-content a,
+.post-single a {
+    color: var(--accent) !important;
+    text-decoration: none;
+}
+
+.post-content a:hover,
+.post-single a:hover {
+    text-decoration: underline;
+}
+
+/* Nav active item */
+.menu a:hover,
+.menu a.active {
+    color: var(--accent) !important;
+}
+
+/* Post title hover */
+.post-entry .entry-header h2:hover,
+.entry-link:hover ~ .entry-header h2 {
+    color: var(--accent);
+}
+
+/* Profile name */
+.profile .profile_inner h1 {
+    color: var(--accent);
+}
+
+/* Section headings */
+.post-content h2,
+.post-single h2 {
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 0.3rem;
+}
+
+/* Buttons on profile */
+.button {
+    border: 1px solid var(--accent) !important;
+    color: var(--accent) !important;
+}
+
+.button:hover {
+    background: var(--accent) !important;
+    color: #1a1a1a !important;
+}
+
+/* Profile photo ring */
+.profile img {
+    border: 3px solid var(--accent);
+    padding: 2px;
+}
+
+/* Tab active underline */
+
+/* Site title / home link hover */
+.logo a:hover {
+    color: var(--accent) !important;
+}
+
+/* Footer link hover */
+.footer a:hover {
+    color: var(--accent) !important;
+}
+
+/* Darker amber for light mode */
+[data-theme="light"] {
+    --accent: #B5730A;
+}
