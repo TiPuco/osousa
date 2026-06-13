@@ -129,4 +129,19 @@ For anyone in IT considering the same: the tools to build a proper home network 
 
 ---
 
+## Hardware Used
+
+If you want to replicate this setup, here's everything used in this build with links to purchase:
+
+| Device | Role | Buy |
+|---|---|---|
+| [MikroTik L009UiGS-2HaxD-IN](https://www.amazon.com/MikroTik-L009UiGS-2HaxD-W128339232-Dual-Chain-Wireless/dp/B0CHMWVYJK) | Core router & firewall | Amazon |
+| [Ubiquiti UniFi U6 LR](https://www.amazon.com/Ubiquiti-Long-Range-Adapter-Included-U6-LR-US/dp/B08V1PF29L) | WiFi 6 access point | Amazon |
+| [Raspberry Pi 3 Model B+](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV) | UniFi controller & Docker host | Amazon |
+| [Netgear ProSafe Plus GS105E](https://www.amazon.com/NETGEAR-ProSafe-5-Port-Gigabit-Unmanaged/dp/B002YK8WMC) | 5-port managed switch | Amazon |
+
+> **Note:** The MikroTik L009 is the indoor version with built-in WiFi. If you don't need the wireless radio, the [L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) rack-mount version is slightly cheaper. For the UniFi controller, any Raspberry Pi 3B or newer will work — or you can run it as a Docker container on any Linux machine.
+
+---
+
 *Osvaldo Sousa is a cybersecurity analyst based in Maputo, Mozambique. This post is part of an ongoing series on home infrastructure and security.*
