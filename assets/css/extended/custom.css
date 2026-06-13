@@ -20,3 +20,7 @@
 :root {
     --nav-width: 720px;
 }
+
+.post-content table td:first-child {
+    white-space: nowrap;
+}
