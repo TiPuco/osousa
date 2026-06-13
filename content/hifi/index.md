@@ -11,28 +11,20 @@ Music is serious business here. This page documents the system I've built over t
 
 ## Signal Chain
 
-Intel NUC (Roon ROCK)
-
-↓
-
-Mac Studio M1 Ultra (as Roon endpoint or directly for video) or Holo Audio RED (DDC/Streamer) (Roon endpoint)
-
-↓
-
-Holo Audio Cyan 2 (DAC)
-
-↓
-
-Naim NAC 282 powered by TeddyCap SE + NAPSC
-
-↓
-
-Naim NAP 250DR
-
-↓
-
+<div style="text-align:center; font-family:monospace; line-height:2; background:var(--code-block-bg); border-radius:8px; padding:1.5rem; margin-bottom:1rem;">
+Roon ROCK (Intel NUC)<br>
+↓<br>
+Mac Studio M1 Ultra (Roon endpoint or direct playback)<br>
+or Holo Audio RED (DDC/Streamer as Roon endpoint)<br>
+↓<br>
+Holo Audio Cyan 2 (DAC)<br>
+↓<br>
+Naim NAC 282 powered by TeddyCap SE + NAPSC<br>
+↓<br>
+Naim NAP 250DR<br>
+↓<br>
 Dynaudio Heritage Special + Pair of REL S/510
-
+</div>
 
 ---
 
