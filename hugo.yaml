@@ -1,0 +1,70 @@
+baseURL: "https://osousa.com/"
+title: "Osvaldo Sousa"
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "Osvaldo Sousa"
+  description: "Cybersecurity analyst based in Maputo. Writing about infosec, networking, and things I find interesting."
+  keywords: [cybersecurity, infosec, networking, blog, mozambique]
+  author: "Osvaldo Sousa"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+
+  homeInfoParams:
+    Title: "Hi, I'm Osvaldo"
+    Content: >
+      Cybersecurity analyst based in Maputo, Mozambique.
+      I write about infosec, networking, and whatever I'm learning.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourhandle"
+    - name: linkedin
+      url: "https://linkedin.com/in/yourhandle"
+    - name: rss
+      url: "/index.xml"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
