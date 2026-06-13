@@ -46,6 +46,9 @@ My home network is a project that never ends. MikroTik, UniFi, Raspberry Pi, Doc
 **Football**
 Manchester United supporter. Results not always matching expectations, but loyalty is unconditional.
 
+**Family**
+Proud father to Nowa.
+
 ### Languages
 
 - **Portuguese** — Native
