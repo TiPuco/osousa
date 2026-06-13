@@ -18,10 +18,10 @@ markup:
 
 params:
   env: production
-  title: "Osvaldo Sousa"
+  title: "Osvaldo de Sousa"
   description: "Cybersecurity analyst based in Maputo. Writing about infosec, networking, and things I find interesting."
   keywords: [cybersecurity, infosec, networking, blog, mozambique]
-  author: "Osvaldo Sousa"
+  author: "Osvaldo de Sousa"
   defaultTheme: dark
   disableThemeToggle: false
 
