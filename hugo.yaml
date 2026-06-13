@@ -17,7 +17,7 @@ params:
   description: "Cybersecurity analyst based in Maputo. Writing about infosec, networking, and things I find interesting."
   keywords: [cybersecurity, infosec, networking, blog, mozambique]
   author: "Osvaldo Sousa"
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
