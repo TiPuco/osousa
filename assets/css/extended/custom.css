@@ -3,12 +3,14 @@
     padding-bottom: 0 !important;
     padding-top: 2rem !important;
 }
+
 .profile .profile_inner {
     gap: 0.5rem !important;
     padding-bottom: 1.5rem !important;
     border-bottom: 1px solid var(--border) !important;
     margin-bottom: 1.5rem !important;
 }
+
 .footer a {
     text-decoration: none !important;
 }
@@ -19,15 +21,15 @@
 
 :root {
     --nav-width: 720px;
+    --accent: #E8A020;
+}
+
+[data-theme="light"] {
+    --accent: #B5730A;
 }
 
 .post-content table td:first-child {
     white-space: nowrap;
-}
-
-/* Accent colour — amber/orange */
-:root {
-    --accent: #E8A020;
 }
 
 /* Links */
@@ -42,16 +44,24 @@
     text-decoration: underline;
 }
 
-/* Nav active item */
+/* Nav */
 .menu a:hover,
 .menu a.active {
     color: var(--accent) !important;
 }
 
-/* Post title hover */
-.post-entry .entry-header h2:hover,
-.entry-link:hover ~ .entry-header h2 {
-    color: var(--accent);
+.logo a:hover {
+    color: var(--accent) !important;
+}
+
+/* Footer */
+.footer a:hover {
+    color: var(--accent) !important;
+}
+
+/* Theme toggle */
+#theme-toggle:hover {
+    color: var(--accent) !important;
 }
 
 /* Profile name */
@@ -59,14 +69,13 @@
     color: var(--accent);
 }
 
-/* Section headings */
-.post-content h2,
-.post-single h2 {
-    border-bottom: 2px solid var(--accent);
-    padding-bottom: 0.3rem;
+/* Profile photo ring */
+.profile img {
+    border: 3px solid var(--accent);
+    padding: 2px;
 }
 
-/* Buttons on profile */
+/* Buttons */
 .button {
     border: 1px solid var(--accent) !important;
     color: var(--accent) !important;
@@ -77,30 +86,26 @@
     color: #1a1a1a !important;
 }
 
-/* Profile photo ring */
-.profile img {
-    border: 3px solid var(--accent);
-    padding: 2px;
+/* Section headings */
+.post-content h2,
+.post-single h2 {
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 0.3rem;
 }
 
-/* Tab active underline */
-
-/* Site title / home link hover */
-.logo a:hover {
-    color: var(--accent) !important;
+/* Post hover */
+.post-entry:hover {
+    border-color: var(--accent) !important;
+    box-shadow: 0 0 0 1px var(--accent);
+    transition: box-shadow 0.2s ease;
 }
 
-/* Footer link hover */
-.footer a:hover {
-    color: var(--accent) !important;
+/* Dots spacing */
+.post-separator {
+    margin: -0.5rem 0;
 }
 
-/* Darker amber for light mode */
-[data-theme="light"] {
-    --accent: #B5730A;
-}
-
-/* Theme toggle hover */
-#theme-toggle:hover {
-    color: var(--accent) !important;
+/* Tighten spacing around dots separator */
+.post-entry {
+    margin-bottom: 0 !important;
 }
