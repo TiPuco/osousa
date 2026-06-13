@@ -10,3 +10,7 @@
     border-bottom: 1px solid var(--border) !important;
     margin-bottom: 1.5rem !important;
 }
+
+.footer a {
+    text-decoration: none !important;
+}

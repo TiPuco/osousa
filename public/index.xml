@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>From Consumer Router to Enterprise-Grade Home Network — A Complete Rebuild</title>
+      <link>http://localhost:1313/posts/home-network-rebuild/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/home-network-rebuild/</guid>
+      <description>How I rebuilt my home network from a flat consumer setup to a fully segmented, VLAN-based architecture with enterprise authentication, IPv6, and zero cloud dependencies.</description>
+    </item>
+    <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
