@@ -16,3 +16,7 @@
 .post-content p {
     text-align: justify !important;
 }
+
+:root {
+    --nav-width: 720px;
+}
