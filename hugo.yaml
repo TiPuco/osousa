@@ -39,7 +39,7 @@ params:
 
   profileMode:
     enabled: true
-    title: "Osvaldo Sousa"
+    title: "Osvaldo de Sousa"
     subtitle: "Cybersecurity Analyst · SOC · Incident Response · Critical Infrastructure\nBased in Mozambique 🇲🇿"
     imageUrl: "img/profile.jpg"
     imageWidth: 240
