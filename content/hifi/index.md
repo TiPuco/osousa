@@ -2,7 +2,7 @@
 title: "Hi-Fi"
 layout: "single"
 url: "/hifi/"
-summary: "Osvaldo Sousa's Hi-Fi system"
+summary: "Osvaldo de Sousa's Hi-Fi system"
 ---
 
 Music is serious business here. This page documents the system I've built over the years — sources, amplification, speakers, cables, and the network infrastructure that ties it all together.

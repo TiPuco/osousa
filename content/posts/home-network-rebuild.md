@@ -144,4 +144,4 @@ If you want to replicate this setup, here's everything used in this build with l
 
 ---
 
-*Osvaldo Sousa is a cybersecurity analyst based in Maputo, Mozambique. This post is part of an ongoing series on home infrastructure and security.*
+*Osvaldo de Sousa is a cybersecurity analyst based in Maputo, Mozambique. This post is part of an ongoing series on home infrastructure and security.*

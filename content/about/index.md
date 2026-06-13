@@ -2,10 +2,10 @@
 title: "About"
 layout: "single"
 url: "/about/"
-summary: "About Osvaldo Sousa"
+summary: "About Osvaldo de Sousa"
 ---
 
-<img src="/img/about.jpg" alt="Osvaldo Sousa" style="width:100%; border-radius:12px; max-height:400px; object-fit:cover; object-position:center top; margin-bottom:1.5rem;">
+<img src="/img/about.jpg" alt="Osvaldo de Sousa" style="width:100%; border-radius:12px; max-height:400px; object-fit:cover; object-position:center top; margin-bottom:1.5rem;">
 
 ## Hi, I'm Osvaldo
 

@@ -44,7 +44,7 @@ params:
     imageUrl: "img/profile.jpg"
     imageWidth: 240
     imageHeight: 240
-    imageTitle: "Osvaldo Sousa"
+    imageTitle: "Osvaldo de Sousa"
     buttons:
       - name: About
         url: /about/
