@@ -2,7 +2,6 @@ baseURL: "https://osousa.com/"
 title: "Osvaldo Sousa"
 paginate: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -30,13 +29,24 @@ params:
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
 
-  homeInfoParams:
-    Title: "Hi, I'm Osvaldo"
-    Content: >
-      Cybersecurity analyst based in Maputo, Mozambique.
-      I write about infosec, networking, and whatever I'm learning.
+  mainSections:
+    - posts
 
-socialIcons:
+  profileMode:
+    enabled: true
+    title: "Osvaldo Sousa"
+    subtitle: "Cybersecurity Analyst · SOC · Incident Response · Critical Infrastructure\nBased in Mozambique 🇲🇿"
+    imageUrl: "img/profile.jpg"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: "Osvaldo Sousa"
+    buttons:
+      - name: About
+        url: /about/
+      - name: Blog
+        url: /posts/
+
+  socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/osvaldodesousa/"
     - name: github
