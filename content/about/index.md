@@ -24,6 +24,10 @@ I'm based between **Songo, Tete** and **Maputo**, Mozambique, and I write here a
     style="padding:0.6rem 1.5rem; background:none; border:none; border-bottom:3px solid transparent; color:var(--secondary); font-size:1rem; cursor:pointer;">
     Professional
   </button>
+  <button onclick="showTab('setup')" id="tab-setup"
+    style="padding:0.6rem 1.5rem; background:none; border:none; border-bottom:3px solid transparent; color:var(--secondary); font-size:1rem; cursor:pointer;">
+    Setup
+  </button>
 </div>
 
 <div id="tab-content-personal">
@@ -130,19 +134,35 @@ IT Management · Service Desk Management · ITIL · Troubleshooting · IT Operat
 
 </div>
 
+<div id="tab-content-setup" style="display:none;">
+
+### Computer Setup
+
+| Component | Spec | Link |
+|---|---|---|
+| **Computer** | Apple Mac Studio M1 Ultra · 20-core CPU · 48-core GPU · 64GB RAM · 1TB SSD | [Apple](https://www.apple.com/mac-studio/) |
+| **OS** | macOS Tahoe 26.5.1 | — |
+| **Monitor** | LG 32UN880-B 32" UltraFine 4K Ergo | [Amazon](https://www.amazon.com/LG-32UN880-B-UltraFine-Compatibility-Connectivity/dp/B08BCR862L) |
+| **Mouse** | Logitech MX Master 4 | [Amazon](https://www.amazon.com/Logitech-Ergonomic-Performance-Ultra-Fast-Scrolling/dp/B0FC5SJNQX) |
+| **Keyboard** | HHKB Pro Hybrid Type-S | [Amazon](https://www.amazon.com/HHKB-Professional-Hybrid-Type-S-PD-KB800BS/dp/B082TYNNL2) |
+| **DAC** | Holo Audio Cyan 2 · R2R · DSD1024 | [Kitsune HiFi](https://kitsunehifi.com/products/holo-audio-cyan-2-dac-us) |
+| **External SSD 1** | Samsung 970 EVO Plus 1TB · Fledging Thunderbolt enclosure | [Amazon](https://www.amazon.com/Samsung-970-EVO-Plus-MZ-V7S1T0B/dp/B07MFZY2F2) |
+| **External SSD 2** | Samsung PSSD T7 Touch 1TB | — |
+| **NAS** | Synology DiskStation DS213+ · 1TB Samsung 860 EVO | — |
+
+</div>
+
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/osvaldodesousa/) — or if you prefer, use the [contact form](/contact/) to send me a message directly.
 
 <script>
 function showTab(tab) {
-  document.getElementById('tab-content-professional').style.display = tab === 'professional' ? 'block' : 'none';
-  document.getElementById('tab-content-personal').style.display = tab === 'personal' ? 'block' : 'none';
-  document.getElementById('tab-professional').style.borderBottom = tab === 'professional' ? '3px solid var(--primary)' : '3px solid transparent';
-  document.getElementById('tab-professional').style.color = tab === 'professional' ? 'var(--primary)' : 'var(--secondary)';
-  document.getElementById('tab-professional').style.fontWeight = tab === 'professional' ? '600' : 'normal';
-  document.getElementById('tab-personal').style.borderBottom = tab === 'personal' ? '3px solid var(--primary)' : '3px solid transparent';
-  document.getElementById('tab-personal').style.color = tab === 'personal' ? 'var(--primary)' : 'var(--secondary)';
-  document.getElementById('tab-personal').style.fontWeight = tab === 'personal' ? '600' : 'normal';
+  ['personal', 'professional', 'setup'].forEach(t => {
+    document.getElementById('tab-content-' + t).style.display = tab === t ? 'block' : 'none';
+    document.getElementById('tab-' + t).style.borderBottom = tab === t ? '3px solid var(--primary)' : '3px solid transparent';
+    document.getElementById('tab-' + t).style.color = tab === t ? 'var(--primary)' : 'var(--secondary)';
+    document.getElementById('tab-' + t).style.fontWeight = tab === t ? '600' : 'normal';
+  });
 }
 </script>
