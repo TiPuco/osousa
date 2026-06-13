@@ -88,4 +88,4 @@ Beyond the terminal, I have a passion for digital photography and acoustics — 
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/osvaldodesousa/) or reach out directly at [osvaldodesousa@gmail.com](mailto:osvaldodesousa@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/osvaldodesousa/).

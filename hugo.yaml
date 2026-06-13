@@ -41,8 +41,6 @@ socialIcons:
       url: "https://www.linkedin.com/in/osvaldodesousa/"
     - name: github
       url: "https://github.com/TiPuco"
-    - name: email
-      url: "mailto:osvaldodesousa@gmail.com"
     - name: rss
       url: "/index.xml"
 
