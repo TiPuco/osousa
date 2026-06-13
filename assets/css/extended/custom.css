@@ -12,3 +12,7 @@
 .footer a {
     text-decoration: none !important;
 }
+
+.post-content p {
+    text-align: justify !important;
+}
