@@ -36,11 +36,13 @@ params:
       Cybersecurity analyst based in Maputo, Mozambique.
       I write about infosec, networking, and whatever I'm learning.
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/yourhandle"
+socialIcons:
     - name: linkedin
-      url: "https://linkedin.com/in/yourhandle"
+      url: "https://www.linkedin.com/in/osvaldodesousa/"
+    - name: github
+      url: "https://github.com/TiPuco"
+    - name: email
+      url: "mailto:osvaldodesousa@gmail.com"
     - name: rss
       url: "/index.xml"
 
