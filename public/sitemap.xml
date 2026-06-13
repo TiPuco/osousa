@@ -46,6 +46,8 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/hifi/</loc>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

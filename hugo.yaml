@@ -77,6 +77,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 40
+    - identifier: hifi
+      name: Hi-Fi
+      url: /hifi/
+      weight: 45
     - identifier: contact
       name: Contact
       url: /contact/
