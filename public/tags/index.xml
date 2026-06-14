@@ -6,20 +6,41 @@
     <description>Recent content in Tags on Osvaldo de Sousa</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homelab</title>
       <link>http://localhost:1313/tags/homelab/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure</title>
       <link>http://localhost:1313/tags/infrastructure/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ntp</title>
+      <link>http://localhost:1313/tags/ntp/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ntp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starlink</title>
+      <link>http://localhost:1313/tags/starlink/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/starlink/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +55,6 @@
       <link>http://localhost:1313/tags/mikrotik/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mikrotik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>http://localhost:1313/tags/networking/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/networking/</guid>
       <description></description>
     </item>
     <item>

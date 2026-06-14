@@ -3,18 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homelab/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infrastructure/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ntp/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/starlink/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/starlink-ntp/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/home-network-rebuild/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/homelab/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/infrastructure/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meta/</loc>
@@ -23,16 +41,7 @@
     <loc>http://localhost:1313/tags/mikrotik/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/networking/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/security/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/unifi/</loc>
