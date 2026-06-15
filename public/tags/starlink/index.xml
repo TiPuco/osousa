@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Starlink on Osvaldo de Sousa</title>
-    <link>http://localhost:63299/tags/starlink/</link>
+    <link>http://localhost:1313/tags/starlink/</link>
     <description>Recent content in Starlink on Osvaldo de Sousa</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63299/tags/starlink/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/starlink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your Starlink Dish is a Stratum 1 NTP Server — And Most People Don&#39;t Know It</title>
-      <link>http://localhost:63299/posts/starlink-ntp/</link>
+      <link>http://localhost:1313/posts/starlink-ntp/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63299/posts/starlink-ntp/</guid>
+      <guid>http://localhost:1313/posts/starlink-ntp/</guid>
       <description>Starlink quietly added a GPS-based NTP server to every dish. Here&amp;#39;s what that means, why it matters, and how to put it to work on your home network.</description>
     </item>
   </channel>
