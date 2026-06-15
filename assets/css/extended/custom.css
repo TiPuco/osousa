@@ -122,7 +122,7 @@
 }
 
 .lang-translate::after {
-    content: "Translate with Google";
+    content: "Traduzir usando o Google";
     position: absolute;
     bottom: -3.4rem;
     left: 50%;
