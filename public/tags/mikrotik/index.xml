@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mikrotik on Osvaldo de Sousa</title>
-    <link>http://localhost:1313/tags/mikrotik/</link>
+    <link>http://localhost:63299/tags/mikrotik/</link>
     <description>Recent content in Mikrotik on Osvaldo de Sousa</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mikrotik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63299/tags/mikrotik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Consumer Router to Enterprise-Grade Home Network — A Complete Rebuild</title>
-      <link>http://localhost:1313/posts/home-network-rebuild/</link>
+      <link>http://localhost:63299/posts/home-network-rebuild/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/home-network-rebuild/</guid>
+      <guid>http://localhost:63299/posts/home-network-rebuild/</guid>
       <description>How I rebuilt my home network from a flat consumer setup to a fully segmented, VLAN-based architecture with enterprise authentication, IPv6, and zero cloud dependencies.</description>
     </item>
   </channel>

@@ -5,7 +5,8 @@ draft: false
 tags: ["networking", "homelab", "mikrotik", "unifi", "security", "infrastructure"]
 description: "How I rebuilt my home network from a flat consumer setup to a fully segmented, VLAN-based architecture with enterprise authentication, IPv6, and zero cloud dependencies."
 cover:
-    alt: "Home network rebuild"
+    image: "img/network-rebuild-cover.jpg"
+    alt: "Home network rebuild — MikroTik and UniFi in Mozambique"
     relative: false
 ---
 

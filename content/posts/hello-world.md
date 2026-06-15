@@ -4,6 +4,10 @@ date: 2026-06-13
 draft: false
 tags: ["meta"]
 description: "First post — what this blog is about and what to expect."
+cover:
+    image: "img/hello-world-cover.jpg"
+    alt: "Hello World — launching osousa.com"
+    relative: false
 ---
 
 This is the beginning of osousa.com — my personal space to write about cybersecurity,
