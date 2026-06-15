@@ -115,3 +115,30 @@
 .breadcrumbs span {
     color: var(--accent) !important;
 }
+
+/* Google Translate tooltip */
+.lang-translate {
+    position: relative;
+}
+
+.lang-translate::after {
+    content: "Translate with Google";
+    position: absolute;
+    bottom: -3.4rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: color-mix(in srgb, var(--entry) 80%, transparent);
+    color: var(--primary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0px 8px;
+    font-size: 0.75rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+}
+
+.lang-translate:hover::after {
+    opacity: 1;
+}
