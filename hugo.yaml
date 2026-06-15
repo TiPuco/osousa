@@ -1,6 +1,6 @@
 baseURL: "https://osousa.com/"
 title: "Osvaldo de Sousa"
-paginate: 5
+paginate: 3
 theme: PaperMod
 enableRobotsTXT: true
 buildDrafts: false
