@@ -109,3 +109,9 @@
 .post-entry {
     margin-bottom: 0 !important;
 }
+
+/* Orange breadcrumbs */
+.breadcrumbs a,
+.breadcrumbs span {
+    color: var(--accent) !important;
+}

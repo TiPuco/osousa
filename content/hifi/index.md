@@ -9,7 +9,7 @@ Music is serious business here. This page documents the system I've built over t
 
 ---
 
-## Signal Chain
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg> Signal Chain
 
 <div style="text-align:center; font-family:monospace; line-height:2; background:var(--code-block-bg); border-radius:8px; padding:1.5rem; margin-bottom:1rem;">
 Roon ROCK (Intel NUC)<br>
@@ -28,7 +28,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## Speakers
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><rect x="4" y="2" width="16" height="20" rx="2"/><circle cx="12" cy="14" r="4"/><circle cx="12" cy="14" r="1"/><line x1="12" y1="6" x2="12" y2="8"/></svg> Speakers
 
 <img src="/img/hifi-speakers.jpg" alt="Dynaudio Heritage Special" style="width:100%; border-radius:8px; margin-bottom:1rem;">
 
@@ -38,7 +38,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## Subwoofers
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><rect x="4" y="2" width="16" height="20" rx="2"/><circle cx="12" cy="14" r="4"/><circle cx="12" cy="14" r="1"/><line x1="12" y1="6" x2="12" y2="8"/></svg> Subwoofers
 
 <img src="/img/hifi-rel.jpg" alt="REL S/510 Subwoofer" style="width:100%; border-radius:8px; margin-bottom:1rem;">
 
@@ -48,7 +48,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## DAC & Streamer
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg> DAC & Streamer
 
 <img src="/img/hifi-cyan2-red.jpg" alt="Holo Audio Cyan 2 and RED" style="width:100%; border-radius:8px; margin-bottom:0.5rem;">
 <img src="/img/hifi-red.jpg" alt="Holo Audio RED DDC Streamer" style="width:100%; border-radius:8px; margin-bottom:1rem;">
@@ -60,7 +60,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## Amplification
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><rect x="2" y="7" width="20" height="10" rx="2"/><line x1="6" y1="11" x2="6" y2="13"/><line x1="10" y1="11" x2="10" y2="13"/><line x1="14" y1="11" x2="18" y2="11"/><line x1="14" y1="13" x2="18" y2="13"/></svg> Amplification
 
 <img src="/img/hifi-nac282.jpg" alt="Naim NAC 282 Preamplifier" style="width:100%; border-radius:8px; margin-bottom:0.5rem;">
 <img src="/img/hifi-napsc-teddycap.jpg" alt="NAPSC and TeddyCap SE" style="width:100%; border-radius:8px; margin-bottom:0.5rem;">
@@ -74,7 +74,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## Source & Digital
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg> Source & Digital
 
 | Component | Details | Link |
 |---|---|---|
@@ -84,7 +84,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## Cables
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><line x1="9" y1="3" x2="9" y2="7"/><line x1="15" y1="3" x2="15" y2="7"/><path d="M6 7h12v4a6 6 0 0 1-12 0V7z"/><line x1="12" y1="17" x2="12" y2="21"/></svg> Cables
 
 | Connection | Cable |
 |---|---|
@@ -97,7 +97,7 @@ Dynaudio Heritage Special + Pair of REL S/510
 
 ---
 
-## Network
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><rect x="16" y="16" width="6" height="6" rx="1"/><rect x="2" y="16" width="6" height="6" rx="1"/><rect x="9" y="2" width="6" height="6" rx="1"/><path d="M5 16v-4h14v4"/><path d="M12 12V8"/></svg> Network
 
 The Hi-Fi system runs on a dedicated isolated VLAN with no internet access initiated from within the zone. The Roon core communicates with endpoints across VLANs via selective mDNS forwarding on the MikroTik router. Roon ARC is configured for remote access over both IPv4 and IPv6.
 
@@ -105,7 +105,7 @@ Read more about the network setup in [this post](/posts/home-network-rebuild/).
 
 ---
 
-## Software
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg> Software
 
 - **Roon** — music management, DSP, and endpoint control
 - **Roon ARC** — remote playback anywhere in the world

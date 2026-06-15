@@ -8,7 +8,7 @@ comments: false
 
 <img src="/img/about.jpg" alt="Osvaldo de Sousa" style="width:100%; border-radius:12px; max-height:400px; object-fit:cover; object-position:center top; margin-bottom:1.5rem;">
 
-## Hi, I'm Osvaldo
+## <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:8px"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> Hi, I'm Osvaldo
 
 I'm a Mozambican IT professional with over 20 years of experience, currently working as a **Cybersecurity Analyst** at Hidroeléctrica de Cahora Bassa (HCB) — one of Africa's largest hydroelectric power plants. My career has taken me through systems analysis, networking, service desk management, and now security operations in critical infrastructure.
 
