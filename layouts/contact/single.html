@@ -65,12 +65,12 @@
       const res = await fetch("https://contact-form.osvaldodesousa.workers.dev", {
         method: "POST",
         body: data,
-        redirect: "manual",
       });
-      if (res.type === "opaqueredirect" || res.status === 0) {
+      const json = await res.json();
+      if (json.success) {
         window.location.href = "https://osousa.com/contact/?success=1";
-      } else if (res.redirected) {
-        window.location.href = res.url;
+      } else if (json.error === "captcha") {
+        window.location.href = "https://osousa.com/contact/?error=captcha";
       } else {
         window.location.href = "https://osousa.com/contact/?error=1";
       }
