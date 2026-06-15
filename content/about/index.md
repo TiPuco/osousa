@@ -26,8 +26,8 @@ I'm based between **Songo, Tete** and **Maputo**, Mozambique, and I write here a
     Professional
   </button>
   <button onclick="showTab('setup')" id="tab-setup"
-    style="padding:0.6rem 1.5rem; background:none; border:none; border-bottom:3px solid transparent; color:var(--secondary); font-size:1rem; cursor:pointer;">
-    Setup
+      style="padding:0.6rem 1.5rem; background:none; border:none; border-bottom:3px solid transparent; color:var(--secondary); font-size:1rem; cursor:pointer;">
+      Daily Drivers
   </button>
 </div>
 
@@ -141,7 +141,7 @@ IT Management · Service Desk Management · ITIL · Troubleshooting · IT Operat
 
 <div id="tab-content-setup" style="display:none;">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg> Computer Setup
+### <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg> The Daily Drivers @Home
 
 | Component | Spec | Link |
 |---|---|---|
