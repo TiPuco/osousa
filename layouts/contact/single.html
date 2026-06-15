@@ -61,12 +61,21 @@
     e.preventDefault();
     const form = e.target;
     const data = new FormData(form);
-    const res = await fetch("https://contact-form.osvaldodesousa.workers.dev", {
-      method: "POST",
-      body: data,
-    });
-    if (res.redirected) {
-      window.location.href = res.url;
+    try {
+      const res = await fetch("https://contact-form.osvaldodesousa.workers.dev", {
+        method: "POST",
+        body: data,
+        redirect: "manual",
+      });
+      if (res.type === "opaqueredirect" || res.status === 0) {
+        window.location.href = "https://osousa.com/contact/?success=1";
+      } else if (res.redirected) {
+        window.location.href = res.url;
+      } else {
+        window.location.href = "https://osousa.com/contact/?error=1";
+      }
+    } catch (err) {
+      window.location.href = "https://osousa.com/contact/?error=1";
     }
   });
 </script>
