@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://osousa.com/posts/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/homelab/</loc>
+    <loc>https://osousa.com/tags/homelab/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/infrastructure/</loc>
+    <loc>https://osousa.com/tags/infrastructure/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/networking/</loc>
+    <loc>https://osousa.com/tags/networking/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ntp/</loc>
+    <loc>https://osousa.com/tags/ntp/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://osousa.com/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/starlink/</loc>
+    <loc>https://osousa.com/tags/starlink/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://osousa.com/tags/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/starlink-ntp/</loc>
+    <loc>https://osousa.com/posts/starlink-ntp/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/home-network-rebuild/</loc>
+    <loc>https://osousa.com/posts/home-network-rebuild/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://osousa.com/posts/hello-world/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/meta/</loc>
+    <loc>https://osousa.com/tags/meta/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mikrotik/</loc>
+    <loc>https://osousa.com/tags/mikrotik/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/security/</loc>
+    <loc>https://osousa.com/tags/security/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/unifi/</loc>
+    <loc>https://osousa.com/tags/unifi/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://osousa.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://osousa.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://osousa.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://osousa.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/hifi/</loc>
+    <loc>https://osousa.com/hifi/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://osousa.com/search/</loc>
   </url>
 </urlset>

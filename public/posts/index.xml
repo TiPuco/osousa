@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Osvaldo de Sousa</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://osousa.com/posts/</link>
     <description>Recent content in Blog on Osvaldo de Sousa</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osousa.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your Starlink Dish is a Stratum 1 NTP Server — And Most People Don&#39;t Know It</title>
-      <link>http://localhost:1313/posts/starlink-ntp/</link>
+      <link>https://osousa.com/posts/starlink-ntp/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/starlink-ntp/</guid>
+      <guid>https://osousa.com/posts/starlink-ntp/</guid>
       <description>Starlink quietly added a GPS-based NTP server to every dish. Here&amp;#39;s what that means, why it matters, and how to put it to work on your home network.</description>
     </item>
     <item>
       <title>From Consumer Router to Enterprise-Grade Home Network — A Complete Rebuild</title>
-      <link>http://localhost:1313/posts/home-network-rebuild/</link>
+      <link>https://osousa.com/posts/home-network-rebuild/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/home-network-rebuild/</guid>
+      <guid>https://osousa.com/posts/home-network-rebuild/</guid>
       <description>How I rebuilt my home network from a flat consumer setup to a fully segmented, VLAN-based architecture with enterprise authentication, IPv6, and zero cloud dependencies.</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://osousa.com/posts/hello-world/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://osousa.com/posts/hello-world/</guid>
       <description>First post — what this blog is about and what to expect.</description>
     </item>
   </channel>
