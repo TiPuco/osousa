@@ -5,26 +5,13 @@ url: "/hifi/"
 summary: "Osvaldo de Sousa's Hi-Fi system"
 ---
 
-Music is serious business here. This page documents the system I've built over the years — sources, amplification, speakers, cables, and the network infrastructure that ties it all together.
+Music is seriously loved here. This page documents the system I've built over the years — sources, amplification, speakers, cables, and the network infrastructure that ties it all together.
 
 ---
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg> Signal Chain
 
-<div style="text-align:center; font-family:monospace; line-height:2; background:var(--code-block-bg); border-radius:8px; padding:1.5rem; margin-bottom:1rem;">
-Roon ROCK (Intel NUC)<br>
-↓<br>
-Mac Studio M1 Ultra (Roon endpoint or direct playback)<br>
-or Holo Audio RED (DDC/Streamer as Roon endpoint)<br>
-↓<br>
-Holo Audio Cyan 2 (DAC)<br>
-↓<br>
-Naim NAC 282 powered by TeddyCap SE + NAPSC<br>
-↓<br>
-Naim NAP 250DR<br>
-↓<br>
-Dynaudio Heritage Special + Pair of REL S/510
-</div>
+<img src="/img/signal-chain.svg" alt="Hi-Fi signal chain: Roon ROCK to Mac Studio or Holo Audio RED, to Holo Audio Cyan 2 DAC, to Naim NAC 282 preamp powered by TeddyCap SE and NAPSC, to Naim NAP 250DR power amp, driving Dynaudio Heritage Special speakers and REL S/510 subwoofers" style="width:100%; border-radius:8px; margin-bottom:1rem;">
 
 ---
 

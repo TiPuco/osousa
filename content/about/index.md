@@ -39,7 +39,7 @@ I'm based between **Songo, Tete** and **Maputo**, Mozambique, and I write here a
 I shoot with an Olympus OM-D E-M10 Mark II and a 12-40mm f/2.8 Pro lens. I'm drawn to portraits and available light situations. Photography and security share more than people think — both reward patience and attention to detail.
 
 **Hi-Fi Audio & Acoustics**
-I run a serious dedicated audio system — Naim amplification, Dynaudio Heritage Specials, REL subs, and a Holo Audio R2R DAC fed by a Roon ROCK server. All on its own isolated VLAN. Full details on the [Hi-Fi page](/hifi/).
+I run a modest dedicated audio system — Naim amplification, Dynaudio Heritage Specials, REL subs, and a Holo Audio R2R DAC fed by a Roon ROCK server. All on its own isolated VLAN. Full details on the [Hi-Fi page](/hifi/).
 
 **Home Lab**
 My home network is a project that never ends. MikroTik, UniFi, Raspberry Pi, Docker. Currently planning a Proxmox node for security research and testing.
