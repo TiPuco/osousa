@@ -4,7 +4,7 @@
 {{- partial "index_profile.html" . }}
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-{{- $paginator := .Paginate $pages }}
+{{- $paginator := .Paginate $pages 3 }}
 {{- range $index, $page := $paginator.Pages }}
 {{- if gt $index 0 }}
 <div style="text-align:center; color:var(--accent); font-size:1.2rem; letter-spacing:0.5rem; padding:0.5rem 0;">· · ·</div>
@@ -69,7 +69,7 @@
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
-{{- $paginator := .Paginate $pages }}
+{{- $paginator := .Paginate $pages 3 }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
