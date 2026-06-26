@@ -87,12 +87,16 @@ IT&Dreams, Lda
 
 ### <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89L17 22l-5-3-5 3 1.523-9.11"/></svg> Certifications
 
-| Certification | Issuer |
-|---|---|
-| GIAC Security Essentials (GSEC) | GIAC / SANS |
-| GIAC Security Operations Certified (GSOC) | GIAC / SANS |
-| Cisco CCNA | ISCTEM Cisco CCNA Academy |
-| D-Link Certified Engineer | D-Link Academy South Africa |
+<table>
+<thead><tr><th>Certification</th><th>Issuer</th></tr></thead>
+<tbody>
+<tr><td>GIAC Certified Incident Handler (GCIH)</td><td><a href="https://www.credly.com/badges/2f8a6531-2084-4589-a78a-c76eacb01304/public_url" target="_blank" rel="noopener noreferrer">GIAC / SANS</a></td></tr>
+<tr><td>GIAC Security Operations Certified (GSOC)</td><td><a href="https://www.credly.com/badges/64ac9acb-88e8-4aae-9dd2-0f333ec388dc/public_url" target="_blank" rel="noopener noreferrer">GIAC / SANS</a></td></tr>
+<tr><td>GIAC Security Essentials (GSEC)</td><td><a href="https://www.credly.com/badges/85abc821-e30f-4d3d-9d0d-3004dc21802a/public_url" target="_blank" rel="noopener noreferrer">GIAC / SANS</a></td></tr>
+<tr><td>Cisco CCNA</td><td>ISCTEM Cisco CCNA Academy</td></tr>
+<tr><td>D-Link Certified Engineer</td><td>D-Link Academy South Africa</td></tr>
+</tbody>
+</table>
 
 ### <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E8A020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg> Training
 
