@@ -142,3 +142,14 @@
 .lang-translate:hover::after {
     opacity: 1;
 }
+
+/* Syne font */
+
+body, .post-title, .entry-hint-parent, p, li, td, th, label, input, textarea, button, a {
+    font-family: 'Syne', sans-serif;
+}
+
+/* Josefin Sans for headings */
+h1, h2, h3, h4, h5, h6, .post-title, .entry-hint-parent a {
+    font-family: 'Josefin Sans', sans-serif;
+}
