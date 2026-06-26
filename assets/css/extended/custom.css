@@ -145,11 +145,26 @@
 
 /* Syne font */
 
-body, .post-title, .entry-hint-parent, p, li, td, th, label, input, textarea, button, a {
+body, .post-title, .entry-hint-parent, p, li, td, th, label, input, textarea {
     font-family: 'Syne', sans-serif;
 }
 
 /* Josefin Sans for headings */
-h1, h2, h3, h4, h5, h6, .post-title, .entry-hint-parent a {
+h2, h3, h4, h5, h6, .post-title, .entry-hint-parent a {
     font-family: 'Josefin Sans', sans-serif;
+}
+
+/* Keep nav logo in Syne */
+.logo a, .header-nav {
+    font-family: 'Syne', sans-serif !important;
+}
+
+/* Keep nav menu in Syne */
+.menu a, .menu li, ul#menu, ul#menu a {
+    font-family: 'Syne', sans-serif !important;
+}
+
+/* Tighten nav to fit on one line */
+.menu a {
+    font-size: 0.9rem;
 }
