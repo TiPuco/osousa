@@ -71,7 +71,8 @@
 
 /* Profile photo ring */
 .profile img {
-    border: 3px solid var(--accent);
+    width: 128px;
+    height: 128px;
     padding: 2px;
 }
 
