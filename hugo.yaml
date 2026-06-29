@@ -48,7 +48,7 @@ params:
     enabled: true
     title: "Osvaldo de Sousa"
     subtitle: "IT · Music · Hi-Fi · Photography · Lifestyle<br>Based in Mozambique <svg xmlns='http://www.w3.org/2000/svg' width='20' height='13' viewBox='0 0 360 240' style='vertical-align:middle;margin-left:2px'><rect width='360' height='240' fill='#009A44'/><rect y='75' width='360' height='10' fill='#fff'/><rect y='85' width='360' height='70' fill='#000'/><rect y='155' width='360' height='10' fill='#fff'/><rect y='165' width='360' height='75' fill='#FCE100'/><polygon points='0,0 120,120 0,240' fill='#C8102E'/><g transform='translate(37,120)'><polygon points='0,-27 6.3,-8.7 25.7,-8.7 10.2,3.3 15.9,21.6 0,10.5 -15.9,21.6 -10.2,3.3 -25.7,-8.7 -6.3,-8.7' fill='#FCE100'/></g></svg>"
-    imageUrl: "img/profile.jpg"
+    #imageUrl: "img/profile.jpg"
     imageWidth: 240
     imageHeight: 240
     imageTitle: "Osvaldo de Sousa"
