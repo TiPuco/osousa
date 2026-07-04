@@ -58,19 +58,6 @@
                 </button>
                 {{- end }}
 
-                <a href="https://translate.google.com/translate?sl=en&tl=pt-PT&u=https://osousa.com{{ .RelPermalink }}"
-                   target="_blank" rel="noopener noreferrer"
-                   title="Traduzir para Português"
-                   aria-label="Traduzir para Português"
-                   class="lang-translate">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" style="border-radius:50%; overflow:hidden; display:block;">
-                        <rect x="0" y="0" width="10" height="20" fill="#006600"/>
-                        <rect x="10" y="0" width="10" height="20" fill="#FF0000"/>
-                        <circle cx="10" cy="10" r="4.5" fill="#FFD700"/>
-                        <circle cx="10" cy="10" r="3" fill="#003399"/>
-                        <rect x="6.5" y="8.8" width="7" height="2.4" fill="#FFFFFF"/>
-                    </svg>
-                </a>
 
                 {{- if (not site.Params.disableLangToggle) }}
                     {{- $lang := .Lang}}
