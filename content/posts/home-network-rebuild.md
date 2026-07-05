@@ -136,10 +136,10 @@ If you want to replicate this setup, here's everything used in this build with l
 
 | Device | Role | Buy |
 |---|---|---|
-| [MikroTik L009UiGS-2HaxD-IN](https://www.amazon.com/MikroTik-L009UiGS-2HaxD-W128339232-Dual-Chain-Wireless/dp/B0CHMWVYJK) | Core router & firewall | Amazon |
-| [Ubiquiti UniFi U6 LR](https://www.amazon.com/Ubiquiti-Long-Range-Adapter-Included-U6-LR-US/dp/B08V1PF29L) | WiFi 6 access point | Amazon |
-| [Raspberry Pi 3 Model B+](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV) | UniFi controller & Docker host | Amazon |
-| [Netgear ProSafe Plus GS105E](https://www.amazon.com/NETGEAR-ProSafe-5-Port-Gigabit-Unmanaged/dp/B002YK8WMC) | 5-port managed switch | Amazon |
+| MikroTik L009UiGS-2HaxD-IN | Core router & firewall | [Amazon](https://www.amazon.com/MikroTik-L009UiGS-2HaxD-W128339232-Dual-Chain-Wireless/dp/B0CHMWVYJK) |
+| Ubiquiti UniFi U6 LR | WiFi 6 access point | [Amazon](https://www.amazon.com/Ubiquiti-Long-Range-Adapter-Included-U6-LR-US/dp/B08V1PF29L) |
+| Raspberry Pi 3 Model B+ | UniFi controller & Docker host | [Amazon](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV) |
+| Netgear ProSafe Plus GS105E | 5-port managed switch | [Amazon](https://www.amazon.com/NETGEAR-ProSafe-5-Port-Gigabit-Unmanaged/dp/B002YK8WMC) |
 
 > **Note:** The MikroTik L009 is the indoor version with built-in WiFi. If you don't need the wireless radio, the [L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) rack-mount version is slightly cheaper. For the UniFi controller, any Raspberry Pi 3B or newer will work — or you can run it as a Docker container on any Linux machine.
 
