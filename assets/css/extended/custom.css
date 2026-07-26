@@ -143,3 +143,8 @@ h2, h3, h4, h5, h6, .post-title, .entry-hint-parent a {
 .menu a {
     font-size: 0.9rem;
 }
+
+/* Add spacing above pagination */
+.page-footer {
+    margin-top: 2.5rem;
+}
