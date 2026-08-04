@@ -3,6 +3,7 @@ title: "Osvaldo de Sousa"
 paginate: 3
 theme: PaperMod
 enableRobotsTXT: true
+enableGitInfo: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -57,7 +58,9 @@ params:
         url: /about/
       - name: Blog
         url: /posts/
-
+      - name: CV
+        url: /cv/
+        
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/osvaldodesousa/"
@@ -72,6 +75,10 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 15
     - identifier: blog
       name: Blog
       url: /posts/
@@ -92,7 +99,7 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
-
+      
 outputs:
   home:
     - HTML
