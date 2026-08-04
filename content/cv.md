@@ -16,4 +16,4 @@ Cybersecurity Analyst with 20+ years of IT experience — systems analysis, netw
   View / Download CV (PDF)
 </a>
 
-*Last updated: {{ .GitInfo.AuthorDate.Format "January 2006" }}*
+*Last updated: {{< lastupdated >}}*
