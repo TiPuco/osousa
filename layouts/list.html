@@ -4,28 +4,31 @@
 {{- partial "index_profile.html" . }}
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-{{- $paginator := .Paginate $pages 3 }}
-{{- range $index, $page := $paginator.Pages }}
-{{- if gt $index 0 }}
-<div style="text-align:center; color:var(--accent); font-size:1.2rem; letter-spacing:0.5rem; padding:0.5rem 0;">· · ·</div>
-{{- end }}
+
+<div style="text-align:center; font-size:0.85rem; letter-spacing:0.15rem; text-transform:uppercase; color:var(--accent); font-weight:600; margin:-0.55rem 0 0.75rem;">From the Blog</div>
+
+{{- range first 1 $pages.ByDate.Reverse }}
 <article class="post-entry">
+  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
-    <h2 class="entry-hint-parent">
-      <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
-    </h2>
+    <h2 class="entry-hint-parent">{{ .Title }}</h2>
   </header>
-  {{- if (ne ($page.Param "hideSummary") true) }}
+  {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
-    <p>{{ $page.Summary | plainify | htmlUnescape }}{{ if $page.Truncated }}...{{ end }}</p>
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
   </div>
   {{- end }}
+  {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
-    {{- partial "post_meta.html" $page -}}
+    {{- partial "post_meta.html" . -}}
   </footer>
-  <a class="entry-link" aria-label="post link to {{ $page.Title | plainify }}" href="{{ $page.Permalink }}"></a>
+  {{- end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
+
+<p style="text-align:right; margin-top:0.75rem;"><a href="/posts/" style="color:var(--accent); font-weight:600;">All posts →</a></p>
 {{- else }} {{/* if not profileMode */}}
 
 {{- if not .IsHome | and .Title }}
