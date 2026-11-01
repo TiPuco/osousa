@@ -1,0 +1,6 @@
+/wifi/*.mobileconfig
+  Content-Type: application/x-apple-aspen-config
+  Content-Disposition: attachment; filename="alendo.mobileconfig"
+  Cache-Control: no-cache
+/wifi/*
+  X-Robots-Tag: noindex

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Alendo Wi-Fi</title>
+<style>
+:root{--bg:#fafaf7;--fg:#1d1d1b;--muted:#5d5d58;--card:#fff;--line:#e4e3dd;--accent:#1f6f5c}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--fg:#ecebe6;--muted:#a3a29b;--card:#1d1d1b;--line:#33332f;--accent:#5cc2a6}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,system-ui,Segoe UI,Roboto,sans-serif}
+main{max-width:560px;margin:0 auto;padding:32px 16px 48px}h1{font-size:1.6rem;margin:0 0 4px}p.sub{color:var(--muted);margin:0 0 24px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 18px 8px;margin-bottom:16px}
+h2{font-size:1.05rem;margin:0 0 8px}ol{padding-left:20px;margin:0 0 10px}li{margin-bottom:6px}
+code{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:.92em}
+a.btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:10px 16px;border-radius:8px;font-weight:600;margin:4px 0 12px}
+.note{color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<main>
+<h1>Alendo Wi-Fi</h1>
+<p class="sub">Rede de convidados · Guest network</p>
+
+<section>
+<h2>iPhone · iPad · Mac</h2>
+<ol>
+<li>Instale o perfil / Install the profile:<br><a class="btn" href="alendo.mobileconfig">Alendo.mobileconfig</a></li>
+<li>Definições → <b>Perfil descarregado</b> → Instalar.<br><span class="note">Settings → Profile Downloaded → Install.</span></li>
+<li>Ligue-se a <b>Alendo</b> com o utilizador e a palavra-passe que recebeu.<br><span class="note">Join Alendo with the username and password you were given.</span></li>
+</ol>
+<p class="note">O perfil não contém palavras-passe e pode ser removido a qualquer momento. · The profile holds no passwords and can be removed at any time.</p>
+</section>
+
+<section>
+<h2>Android</h2>
+<ol>
+<li>Escolha a rede <b>Alendo</b>. · Choose <b>Alendo</b>.</li>
+<li>Método EAP / EAP method: <code>PEAP</code></li>
+<li>Certificado CA / CA certificate: <code>Usar certificados do sistema</code> · <code>Use system certificates</code></li>
+<li>Domínio / Domain: <code>osousa.com</code></li>
+<li>Identidade e palavra-passe que recebeu. · Identity and password you were given.</li>
+</ol>
+</section>
+
+<section>
+<h2>Windows · outros / others</h2>
+<p>Se aparecer um aviso de certificado, confirme que é <b>*.osousa.com</b>, emitido por <b>Let's Encrypt</b>, antes de aceitar.<br>
+<span class="note">If a certificate prompt appears, check it says <b>*.osousa.com</b>, issued by <b>Let's Encrypt</b>, before accepting.</span></p>
+</section>
+</main>
+</body>
+</html>
