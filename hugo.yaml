@@ -89,10 +89,6 @@ menu:
       name: Projects
       url: /projects/
       weight: 25
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 40
     - identifier: hifi
       name: Hi-Fi
       url: /hifi/
