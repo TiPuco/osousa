@@ -60,7 +60,7 @@ params:
         url: /posts/
       - name: CV
         url: /cv/
-        
+
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/osvaldodesousa/"
@@ -83,10 +83,6 @@ menu:
       name: Blog
       url: /posts/
       weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 30
     - identifier: archives
       name: Archives
       url: /archives/
@@ -99,7 +95,11 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
-      
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+
 outputs:
   home:
     - HTML
