@@ -135,8 +135,9 @@
       {{- end }}
     </a>
     {{- end }}
+    <a href="{{ "archives/" | absLangURL }}" title="All posts, listed by date" style="margin-inline-start:auto;">Show all</a>
     {{- if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL | absURL }}">
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}" style="margin-inline-start:0.75rem;">
       {{- i18n "next_page" }}&nbsp;
       {{- if (.Param "ShowPageNums") }}
       {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
