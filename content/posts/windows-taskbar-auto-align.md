@@ -8,7 +8,7 @@ summary: "A small PowerShell script that centers the Windows 11 taskbar when an 
 
 ## The Annoyance
 
-My laptop spends half its life docked to a Dell monitor and the other half on its own. On the big screen, a centered taskbar feels right: the icons sit in the middle of where I'm looking. On the laptop's small screen, I prefer them on the left, where they're quicker to reach.
+My laptop spends half its life docked to a Dell monitor and the other half on its own. On the big screen, a centered taskbar feels right: the icons sit in the middle of where I’m looking. On the laptop’s small screen, I prefer them on the left, where they’re quicker to reach and get the full width of the taskbar before running into the system tray.
 
 Windows 11 gives you one setting for this, and it doesn't care which screen you're on. So every dock and undock meant opening Settings and flipping it by hand. Small, but constant, and the kind of thing worth fixing properly once.
 
