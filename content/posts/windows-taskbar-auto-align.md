@@ -4,6 +4,10 @@ date: 2026-11-12
 draft: false
 tags: ["windows", "powershell", "scripting", "productivity"]
 summary: "A small PowerShell script that centers the Windows 11 taskbar when an external monitor is connected and moves it back to the left on the laptop screen alone. Event-driven, brand-agnostic, and open source."
+cover:
+  image: "/img/taskbar-auto-align-cover.jpg"
+  alt: "Windows 11 taskbar centered on an external monitor and left-aligned on the laptop screen"
+  relative: false
 ---
 
 ## The Annoyance
